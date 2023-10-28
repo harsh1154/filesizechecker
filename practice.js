@@ -5,7 +5,7 @@ fileInput.addEventListener("change", (event)=>{
 
     const maxFileLength = 10 * 1024 ;
     if (selectedFile.size > maxFileLength){
-        alert("The file is tooo large for our server, please select small one")
+        alert("aba gandu choti file upload karna, mare pas server ka paise nai hei")
         fileInput.value = "";
     }
 
